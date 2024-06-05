@@ -4,3 +4,5 @@
 
 /.vs
 /PuzzleSharp/obj
+/PuzzleSharp.Test/obj
+/PuzzleSharp.Test/bin/Debug/net8.0
